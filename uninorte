@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Mirror Fashion</title>
+        <meta charset="utf-8">
+    </head>    
+    <body>
+        <h1>Mirror Fashion.</h1>
+        <h2>Bem-vindo à Mirror Fashion, sua loja de roupa e acessórios.</h2>
+        <ul>
+            <li>confira nossas promoçãoes.</li>
+            <li>Receba informações sobre nossos lançamentos por email.</li>
+            <li>Compre sem sair de casa.</li>
+        </ul>    
+    </body>
+</html>
